@@ -81,6 +81,45 @@ CGTN,http://183.215.102.57:8089/180000001001/00000000000000020000000000182292/ma
 金鹰卡通,http://39.134.13.35:6610/180000001001/00000001000000001001000000000039/main.m3u8?IASHttpSessionId=OTT
 金鹰卡通,http://183.215.102.57:8089/180000001001/00000001000000000007000000001247/main.m3u8
 
+湖南经视,http://223.146.197.169:8022/udp/239.76.245.116:1234
+湖南都市,http://223.146.197.169:8022/udp/239.76.245.117:1234
+湖南电视剧,http://223.146.197.169:8022/udp/239.76.245.118:1234
+湖南电影,http://223.146.197.169:8022/udp/239.76.245.119:1234
+湖南娱乐,http://223.146.197.169:8022/udp/239.76.245.121:1234
+湖南国际,http://223.146.197.169:8022/udp/239.76.245.124:1234
+湖南公共,http://223.146.197.169:8022/udp/239.76.245.123:1234
+
+瑶瑶恐怖㊣版,http://159.75.85.63:35455/douyu/2935323
+怡寶影院㊣版,http://159.75.85.63:35455/douyu/434971
+小黛兮影㊣版,http://159.75.85.63:35455/douyu/11553944
+神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+小宇60帧✔原,http://maomao.kandiantv.cn/douyu1.php?id=323876
+恐怖惊悚✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+電影劇場✔原,http://maomao.kandiantv.cn/douyu1.php?id=7575350
+國語電影✔原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+豆瓣高分✔原,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+花卷陪看✔原,http://maomao.kandiantv.cn/douyu1.php?id=52787
+漫威剧情✔原,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+霍格沃茨✔原,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+鱼宝恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+鬼片恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=2935323
+小U鬼片✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+菜园惊险✔原,http://maomao.kandiantv.cn/douyu1.php?id=1735337
+吃奶滴虫✔原,http://maomao.kandiantv.cn/douyu1.php?id=263824
+变种人片✔原,http://maomao.kandiantv.cn/douyu1.php?id=9651304
+喜剧电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=9292492
+女神电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=747764
+华语经典✔原,http://maomao.kandiantv.cn/douyu1.php?id=434971
+避风影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=9826611
+星星影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=315131
+欧美大片✔原,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+贝爷影厅✔原,http://maomao.kandiantv.cn/douyu1.php?id=252802
+译制国语✔原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+
+
+
+
 
 
 NewTV东北热剧 4M1080,http://39.134.65.208/PLTV/88888888/224/3221225679/index.m3u8
